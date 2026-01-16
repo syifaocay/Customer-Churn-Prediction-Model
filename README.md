@@ -1,4 +1,4 @@
-# 📞 Telecom Customer Churn Prediction
+# 📞 Customer Churn Prediction Model
 
 <div align="center">
 
@@ -568,11 +568,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👥 Contact
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@syifaocay]([[https://github.com/syifaocay]
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/ahmad-syifaul-umam-a38057214/)
+- Email: syifaul000@gmail.com
 
-**Project Link:** [https://github.com/yourusername/telecom-churn-prediction](https://github.com/yourusername/telecom-churn-prediction)
+**Project Link:** [https://github.com/syifaocay/Customer-Churn-Prediction-Model)
 
 ---
 
